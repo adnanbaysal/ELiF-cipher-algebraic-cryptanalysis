@@ -1,2 +1,2 @@
 # ELiF-cipher-algebraic-cryptanalysis
-Application of algebraic cryptanalysis technic to the ELiF block cipher.
+Application of algebraic cryptanalysis technic to the ELiF block cipher (https://eprint.iacr.org/2016/752.pdf).
